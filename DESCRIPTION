@@ -1,0 +1,10 @@
+Package: Package
+Type: Package
+Title: Accidental Analysis
+Version: 0.1.0
+Author: Prathmesh Chaudhari
+Maintainer: Prathmesh Chaudhari<prathmes299@gmail.com>
+Description:This package gives you various functions to analyse accidental data
+License: CC0
+Encoding: UTF-8
+LazyData: true

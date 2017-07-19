@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "expect_that(make_filename(2015), matches('accident_2015.csv.bz2'))\n",
+    "created" : 1500478949675.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1953449306",
+    "id" : "B409CD2",
+    "lastKnownWriteTime" : 1500478318,
+    "last_content_update" : 1500478318,
+    "path" : "~/Package/tests/testthat.R",
+    "project_path" : "tests/testthat.R",
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

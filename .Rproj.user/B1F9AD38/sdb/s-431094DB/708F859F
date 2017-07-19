@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: Package\nType: Package\nTitle: Accidental Analysis\nVersion: 0.1.0\nAuthor: Prathmesh Chaudhari\nMaintainer: Prathmesh Chaudhari<prathmes299@gmail.com>\nDescription:This package gives you various functions to analyse accidental data\nLicense: CC0\nEncoding: UTF-8\nLazyData: true\n",
+    "created" : 1500477498171.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3057809246",
+    "id" : "708F859F",
+    "lastKnownWriteTime" : 1500477772,
+    "last_content_update" : 1500477772957,
+    "path" : "~/Package/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
