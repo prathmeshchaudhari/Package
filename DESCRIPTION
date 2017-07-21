@@ -6,5 +6,8 @@ Author: Prathmesh Chaudhari
 Maintainer: Prathmesh Chaudhari<prathmes299@gmail.com>
 Description:This package gives you various functions to analyse accidental data
 License: CC0
+Suggests: knitr, markdown, testthat
 Encoding: UTF-8
 LazyData: true
+VignetteBuilder: knitr Roxygen
+Imports: dplyr, tidyr , maps, readr , magrittr
