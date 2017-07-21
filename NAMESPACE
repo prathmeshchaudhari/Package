@@ -1,1 +1,6 @@
 exportPattern("^[[:alpha:]]+")
+Package :: fars_read()
+Package :: make_filename()
+Package :: fars_read_years()
+Package :: fars_summarize_years()
+Package :: fars_map_state()
